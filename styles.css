@@ -7,6 +7,7 @@
     padding:0;
     margin:0;
     box-sizing: border-box;
+    font-size: 1rem;
 }
 
 .hero{
@@ -14,4 +15,30 @@
     background-image: url('/bg.jpg');
     background-position: center;
     background-size: cover;
+    text-align: center;
+}
+
+.hero-icon{
+    font-size: 250%;
+    color:#32e0c4;
+    padding-top:30px;
+    padding-bottom : 40px;
+}
+
+.hero-icon:hover{
+    color:#0d7377;
+}
+
+.container{
+    max-width: 500px;
+    margin: auto;
+}
+
+.content-wrap{
+    background-color: white;
+    border-radius: 10px;
+}
+
+div .gray{
+    background-color: #eeeeee;
 }
