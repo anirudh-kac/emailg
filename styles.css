@@ -25,6 +25,24 @@
     padding-bottom : 40px;
 }
 
+p{
+    padding: 5px 15px;
+}
+
+
+.num{
+    color: #0d7377;
+}
+.links {
+    padding-bottom: 10px;
+}
+.links a{
+    text-decoration: none;
+    color : #1ccf9a;
+    margin:auto 15%;
+    font-weight: bold;
+}
+
 .hero-icon:hover{
     color:#0d7377;
 }
@@ -42,3 +60,26 @@
 div .gray{
     background-color: #eeeeee;
 }
+
+.left{
+    text-align :left;
+}
+
+
+.white h1{
+    font-size: 180%;
+    font-weight: bold;
+    padding:15px 0;
+}
+
+.gray .message{
+    padding:45px 20px;
+    font-size : 120%;
+}
+
+.white h2{
+    font-size : 130%;
+    padding: 10px 10px;
+}
+
+.s
