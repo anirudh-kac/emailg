@@ -1,0 +1,17 @@
+/* eeeeee
+32e0c4
+0d7377
+212121 */
+
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+.hero{
+    height: 100vh;
+    background-image: url('/bg.jpg');
+    background-position: center;
+    background-size: cover;
+}
